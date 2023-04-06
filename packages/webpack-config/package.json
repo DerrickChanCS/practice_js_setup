@@ -1,0 +1,8 @@
+{
+    "name": "webpack-config",
+    "description": "Base webpack configs for all projects",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {}
+}

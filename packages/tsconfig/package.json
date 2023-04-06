@@ -1,0 +1,8 @@
+{
+    "name": "base-tsconfig",
+    "description": "Base tsconfig for all projects",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {}
+}
